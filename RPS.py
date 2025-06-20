@@ -1,4 +1,5 @@
 import random
+
 options = ["rock", "paper", "scissors"]
 while True:
     user_choice = input("Choose rock, paper, or scissors: ").lower()

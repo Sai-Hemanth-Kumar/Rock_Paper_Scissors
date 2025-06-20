@@ -44,4 +44,4 @@ Do you want to play again? (yes/no) : no
 ## Requirements
 - Python 3.x
 
-No external libraries are required. 
+No external libraries are required.
